@@ -59,4 +59,5 @@ Awesome-3D-Object-Detection(lidar-based)
 
 # Acknowlegement
 [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
-[Awesome System for Machine Learning](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection)
+
+[awesome-3D-object-detection](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection)
