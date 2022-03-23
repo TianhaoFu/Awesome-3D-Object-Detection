@@ -2,9 +2,20 @@
 Awesome-3D-Object-Detection(lidar-based method)
 ## Dataset
 - [KITTI Dataset](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
+  - 3,712 training samples
+  - 3,769 validation samples
+  - 7,518 testing samples
+
 - [nuScenes Dataset](https://www.nuscenes.org/)
+  - 28k training samples
+  - 6k validation samples
+  - 6k testing samples
+
 - [Lyft Dataset](https://level-5.global/data/perception/)
 - [Waymo Open Dataset](https://waymo.com/open/download/)
+  - 798 training sequences with around 158, 361 LiDAR samples
+  - 202 validation sequences with 40, 077 LiDAR samples.
+
 ## Top conference & workshop
 ### Conferene
 - Conference on Computer Vision and Pattern Recognition(CVPR)
