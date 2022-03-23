@@ -4,7 +4,7 @@
 
 
 # Awesome-3D-Object-Detection
-Awesome-3D-Object-Detection(lidar-based method)
+Awesome-3D-Object-Detection(**Lidar-based Method**)
 ## Dataset
 - [KITTI Dataset](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
   - 3,712 training samples
