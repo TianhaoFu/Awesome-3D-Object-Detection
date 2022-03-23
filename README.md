@@ -68,8 +68,14 @@ Awesome-3D-Object-Detection(lidar-based method)
 ## Video
 - [Aivia online workshop: 3D object detection and tracking](https://www.youtube.com/watch?v=P0TrkwAdFYQ)
 - [3D Object Retrieval 2021 workshop](https://3dor2021.github.io/programme.html)
+- [3D Deep Learning Tutorial from SU lab at UCSD](https://www.youtube.com/watch?v=vfL6uJYFrp4)
+- [Lecture: Self-Driving Cars (Prof. Andreas Geiger, University of Tübingen)](https://www.youtube.com/watch?v=vfL6uJYFrp4)
+- [Current Approaches and Future Directions for Point Cloud Object (2021.04)](https://www.youtube.com/watch?v=xFFCQVwYeec)
+- [Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python (2021.05)](https://www.youtube.com/watch?v=f-Ibri14KMY)
 ## Course
-- [University of Toronto csc2541](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/06_3D_detection.pdf)
+- [University of Toronto, csc2541](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/06_3D_detection.pdf)
+- [University of Tübingen, Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)
+
 ## Blog
 - [Waymo Blog](https://blog.waymo.com/)
 - [PointNet系列论文解读](https://zhuanlan.zhihu.com/p/44809266)
