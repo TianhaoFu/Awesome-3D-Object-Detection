@@ -2,21 +2,21 @@
 Awesome-3D-Object-Detection(lidar-based)
 ## General Resources
 - Dataset
-- Top conferences & workshops
-- Papers
+- Top conference & workshop
+- Paper
 - Survey
 - Book
 - Video
 - Course
 - Blog
-- Famous Research Group
+- Famous Research Group/Scholar
 - Famous CodeCase
 ## Dataset
 - [KITTI Dataset](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
 - [nuScenes Dataset](https://www.nuscenes.org/)
 - [Lyft Dataset](https://level-5.global/data/perception/)
 - [Waymo Open Dataset](https://waymo.com/open/download/)
-## 3D Object Detection on Top System Conference (with notes)
+## Top conference & workshop
 ### Conferene
 - Conference on Computer Vision and Pattern Recognition(CVPR)
 - International Conference on Computer Vision(ICCV)
@@ -25,7 +25,7 @@ Awesome-3D-Object-Detection(lidar-based)
 - Workshop on Autonomous Driving at CVPR 2019([nuScenes 3D detection](http://cvpr2019.wad.vision/))
 - Workshop on Autonomous Driving at CVPR 2020([BDD1k 3D tracking](http://cvpr2020.wad.vision/))
 - Workshop on Autonomous Driving at CVPR 2021([waymo 3D detection](http://cvpr2021.wad.vision/))
-## 3D Object Detection Papers (Ordered by Category)
+## Paper (Lidar-based method)
 1. [End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master)
 2. [Vehicle Detection from 3D Lidar Using Fully Convolutional Network(baidu)](https://arxiv.org/abs/1608.07916)
 3. [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf)
@@ -89,7 +89,7 @@ Awesome-3D-Object-Detection(lidar-based)
 - [PV-RCNN: 3D目标检测 Waymo挑战赛+KITTI榜 单模态第一算法](https://zhuanlan.zhihu.com/p/148942116)
 - [LiDAR R-CNN：一种快速、通用的二阶段3D检测器](https://zhuanlan.zhihu.com/p/359800738)
 - [混合体素网络（HVNet)](https://zhuanlan.zhihu.com/p/122426949)
-## Famous Research Group/People
+## Famous Research Group/Scholar
 - [Naiyan Wang@Tusimple](https://scholar.google.com/citations?user=yAWtq6QAAAAJ&hl=en)
 - [Hongsheng Li@CUHK](https://scholar.google.com/citations?user=BN2Ze-QAAAAJ&hl=en)
 - [Oncel Tuzel@Apple](https://scholar.google.com/citations?user=Fe7NTe0AAAAJ&hl=en)
