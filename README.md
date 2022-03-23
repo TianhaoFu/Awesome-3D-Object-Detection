@@ -97,7 +97,7 @@ Awesome-3D-Object-Detection(lidar-based method)
 - [Oscar Beijbom@nuTonomy](https://scholar.google.com/citations?user=XP_Hxm4AAAAJ&hl=en)
 - [Raquel Urtasun@University of Toronto](https://scholar.google.com/citations?user=jyxO2akAAAAJ&hl=en)
 - [Philipp Krähenbühl@UT Austin](https://scholar.google.com/citations?hl=en&user=dzOd2hgAAAAJ&view_op=list_works&sortby=pubdate)
-## Famous CodeCase
+## Famous CodeBase
 - [Spconv](https://github.com/traveller59/spconv)
 - [Det3D](https://github.com/poodarchu/Det3D)
 - [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
