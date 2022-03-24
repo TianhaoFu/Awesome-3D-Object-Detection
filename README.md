@@ -81,6 +81,7 @@ You are very welcome to pull request to update this list.
 - [LiDAR R-CNN: An Efficient and Universal 3D Object Detector（CVPR2021)](https://arxiv.org/abs/2103.15297)
 - [Center-based 3D Object Detection and Tracking(CVPR2021)](https://arxiv.org/abs/2006.11275)
 - [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection(CVPR2021)](https://arxiv.org/pdf/2012.04355.pdf)
+- Embracing Single Stride 3D Object Detector with Sparse Transformer(CVPR2022) [paper](https://arxiv.org/pdf/2112.06375.pdf), [code](https://github.com/TuSimple/SST)
 ## Survey
 - 2021.04 [Point-cloud based 3D object detection and classification methods for self-driving applications: A survey and taxonomy](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304097)
 - 2021.07 [3D Object Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2106.10823)
