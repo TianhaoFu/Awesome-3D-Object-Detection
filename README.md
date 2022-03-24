@@ -115,6 +115,7 @@ You are very welcome to pull request to update this list.
 - [LiDAR R-CNN：一种快速、通用的二阶段3D检测器](https://zhuanlan.zhihu.com/p/359800738)
 - [混合体素网络（HVNet)](https://zhuanlan.zhihu.com/p/122426949)
 - [自动驾驶感知| Range Image paper分享](https://zhuanlan.zhihu.com/p/420708905)
+- [SST：单步长稀疏Transformer 3D物体检测器](https://zhuanlan.zhihu.com/p/476056546)
 ## Famous Research Group/Scholar
 - [Naiyan Wang@Tusimple](https://scholar.google.com/citations?user=yAWtq6QAAAAJ&hl=en)
 - [Hongsheng Li@CUHK](https://scholar.google.com/citations?user=BN2Ze-QAAAAJ&hl=en)
