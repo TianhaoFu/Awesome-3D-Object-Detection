@@ -142,11 +142,15 @@ You are very welcome to pull request to update this list. :smiley:
 - [Ouais Alsharif@Google Brain](https://scholar.google.com/citations?hl=en&user=nFefEI8AAAAJ&view_op=list_works&sortby=pubdate)
 - [Yuning CHAI(former)@waymo](https://scholar.google.com/citations?hl=en&user=i7U4YogAAAAJ&view_op=list_works&sortby=pubdate)
 ## Famous CodeBase
+- [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
 - [Spconv](https://github.com/traveller59/spconv)
 - [Det3D](https://github.com/poodarchu/Det3D)
 - [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
 - [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 - [Centerpoint](https://github.com/tianweiy/CenterPoint)
+
+## Famous Toolkit
+[ZED Box](https://www.stereolabs.com/docs/object-detection/)
 
 # Acknowlegement
 [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
