@@ -150,7 +150,7 @@ You are very welcome to pull request to update this list. :smiley:
 - [Centerpoint](https://github.com/tianweiy/CenterPoint)
 
 ## Famous Toolkit
-[ZED Box](https://www.stereolabs.com/docs/object-detection/)
+- [ZED Box](https://www.stereolabs.com/docs/object-detection/)
 
 # Acknowlegement
 [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
