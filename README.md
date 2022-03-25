@@ -82,9 +82,13 @@ You are very welcome to pull request to update this list.
 - Center-based 3D Object Detection and Tracking(CVPR2021) [paper](https://arxiv.org/abs/2006.11275)
 - 3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection(CVPR2021) [paper](https://arxiv.org/pdf/2012.04355.pdf)
 - Embracing Single Stride 3D Object Detector with Sparse Transformer(CVPR2022) [paper](https://arxiv.org/pdf/2112.06375.pdf), [code](https://github.com/TuSimple/SST)
-- Point Density-Aware Voxels for LiDAR 3D Object Detection [paper](https://arxiv.org/abs/2203.05662), [code](https://github.com/TRAILab/PDV)
-- A Unified Query-based Paradigm for Point Cloud Understanding [paper](https://arxiv.org/abs/2203.01252#:~:text=Abstract%3A%203D%20point%20cloud%20understanding,including%20detection%2C%20segmentation%20and%20classification.)
-- Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds [paper](https://arxiv.org/abs/2203.01252#:~:text=Abstract%3A%203D%20point%20cloud%20understanding,including%20detection%2C%20segmentation%20and%20classification.), [code](https://github.com/Ghostish/Open3DSOT)
+- Point Density-Aware Voxels for LiDAR 3D Object Detection(CVPR2022) [paper](https://arxiv.org/abs/2203.05662), [code](https://github.com/TRAILab/PDV)
+- A Unified Query-based Paradigm for Point Cloud Understanding(CVPR2022) [paper](https://arxiv.org/abs/2203.01252#:~:text=Abstract%3A%203D%20point%20cloud%20understanding,including%20detection%2C%20segmentation%20and%20classification.)
+- Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds(CVPR2022) [paper](https://arxiv.org/abs/2203.01252#:~:text=Abstract%3A%203D%20point%20cloud%20understanding,including%20detection%2C%20segmentation%20and%20classification.), [code](https://github.com/Ghostish/Open3DSOT)
+- Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds(CVPR2022) [paper](https://arxiv.org/abs/2203.11139), [code](https://github.com/yifanzhang713/IA-SSD)
+- Back To Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement(CVPR2022) [paper](http://arxiv.org/abs/2203.05238), [code](https://github.com/xuxw98/BackToReality)
+- Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds(CVPR2022) [paper](https://www4.comp.polyu.edu.hk/~cslzhang/paper/VoxSeT_cvpr22.pdf), [code](https://github.com/skyhehe123/VoxSeT)
+
 ## Survey
 - 2021.04 Point-cloud based 3D object detection and classification methods for self-driving applications: A survey and taxonomy [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304097)
 - 2021.07 3D Object Detection for Autonomous Driving: A Survey [paper](https://arxiv.org/abs/2106.10823)
