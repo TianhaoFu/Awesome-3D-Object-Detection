@@ -135,7 +135,8 @@ You are very welcome to pull request to update this list.
 - [Thomas Funkhouser@princeton](https://www.cs.princeton.edu/~funk/)
 - [Leonidas Guibas@Stanford](https://scholar.google.com/citations?hl=en&user=5JlEyTAAAAAJ&view_op=list_works&sortby=pubdate)
 - [Steven Waslander@University of Toronto](https://www.trailab.utias.utoronto.ca/)
-
+- [Yulan Guo@NUDT](http://yulanguo.me/)
+- [Lei Zhang@The Hong Kong Polytechnic University](https://www4.comp.polyu.edu.hk/~cslzhang/)
 ## Famous CodeBase
 - [Spconv](https://github.com/traveller59/spconv)
 - [Det3D](https://github.com/poodarchu/Det3D)
