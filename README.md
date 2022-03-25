@@ -108,7 +108,7 @@ You are very welcome to pull request to update this list.
 - Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python (2021.05) [video](https://www.youtube.com/watch?v=f-Ibri14KMY)
 ## Course
 - [University of Toronto, csc2541](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/06_3D_detection.pdf)
-- [University of Tübingen, Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)
+- [University of Tübingen, Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) *(Strong Recommendation)*
 
 ## Blog
 - [Waymo Blog](https://blog.waymo.com/)
