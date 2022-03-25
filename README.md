@@ -5,9 +5,11 @@
 
 
 # Awesome-3D-Object-Detection
-Awesome-3D-Object-Detection(**Lidar-based Method**)
+A curated list of research in 3D Object Detection(**Lidar-based Method**). 
 
 You are very welcome to pull request to update this list.
+![3D Object Detection](https://github.com/TianhaoFu/Awesome-3D-Object-Detection/blob/main/3d.png)
+
 ## Dataset
 - [KITTI Dataset](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
   - 3,712 training samples
