@@ -137,6 +137,8 @@ You are very welcome to pull request to update this list.
 - [Steven Waslander@University of Toronto](https://www.trailab.utias.utoronto.ca/)
 - [Yulan Guo@NUDT](http://yulanguo.me/)
 - [Lei Zhang@The Hong Kong Polytechnic University](https://www4.comp.polyu.edu.hk/~cslzhang/)
+- [Ouais Alsharif@Google Brain](https://scholar.google.com/citations?hl=en&user=nFefEI8AAAAJ&view_op=list_works&sortby=pubdate)
+- [Yuning CHAI(former)@waymo](https://scholar.google.com/citations?hl=en&user=i7U4YogAAAAJ&view_op=list_works&sortby=pubdate)
 ## Famous CodeBase
 - [Spconv](https://github.com/traveller59/spconv)
 - [Det3D](https://github.com/poodarchu/Det3D)
