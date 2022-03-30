@@ -35,8 +35,10 @@ You are very welcome to pull request to update this list. :smiley:
 - CVPR 2019 Workshop on Autonomous Driving([nuScenes 3D detection](http://cvpr2019.wad.vision/))
 - CVPR 2020 Workshop on Autonomous Driving([BDD1k 3D tracking](http://cvpr2020.wad.vision/))
 - CVPR 2021 Workshop on Autonomous Driving([waymo 3D detection](http://cvpr2021.wad.vision/))
+- CVPR 2021 Workshop on Autonomous Driving([waymo 3D detection](http://cvpr2022.wad.vision/))
 - [CVPR 2021 Workshop on 3D Vision and Robotics](https://sites.google.com/view/cvpr2021-3d-vision-robotics)
 - [CVPR 2021 Workshop on 3D Scene Understanding for Vision, Graphics, and Robotics](https://scene-understanding.com/)
+
 - [ICCV 2019 Workshop on Autonomous Driving](http://wad.ai/)
 - [ICCV 2021 Workshop on Autonomous Vehicle Vision (AVVision)](https://avvision.xyz/iccv21/), [note](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/papers/Fan_Autonomous_Vehicle_Vision_2021_ICCV_Workshop_Summary_ICCVW_2021_paper.pdf)
 - [ICCV 2021 Workshop SSLAD Track 2 - 3D Object Detection](https://competitions.codalab.org/competitions/33236#learn_the_details)
