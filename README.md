@@ -35,7 +35,7 @@ You are very welcome to pull request to update this list. :smiley:
 - CVPR 2019 Workshop on Autonomous Driving([nuScenes 3D detection](http://cvpr2019.wad.vision/))
 - CVPR 2020 Workshop on Autonomous Driving([BDD1k 3D tracking](http://cvpr2020.wad.vision/))
 - CVPR 2021 Workshop on Autonomous Driving([waymo 3D detection](http://cvpr2021.wad.vision/))
-- CVPR 2021 Workshop on Autonomous Driving([waymo 3D detection](http://cvpr2022.wad.vision/))
+- CVPR 2022 Workshop on Autonomous Driving([waymo 3D detection](http://cvpr2022.wad.vision/))
 - [CVPR 2021 Workshop on 3D Vision and Robotics](https://sites.google.com/view/cvpr2021-3d-vision-robotics)
 - [CVPR 2021 Workshop on 3D Scene Understanding for Vision, Graphics, and Robotics](https://scene-understanding.com/)
 
