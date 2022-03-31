@@ -93,6 +93,9 @@ You are very welcome to pull request to update this list. :smiley:
 - Back To Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement(CVPR2022) [paper](http://arxiv.org/abs/2203.05238), [code](https://github.com/xuxw98/BackToReality)
 - Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds(CVPR2022) [paper](https://www4.comp.polyu.edu.hk/~cslzhang/paper/VoxSeT_cvpr22.pdf), [code](https://github.com/skyhehe123/VoxSeT)
 
+## Competition Solution
+## Engineering
+
 ## Survey
 - 2021.04 Point-cloud based 3D object detection and classification methods for self-driving applications: A survey and taxonomy [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304097)
 - 2021.07 3D Object Detection for Autonomous Driving: A Survey [paper](https://arxiv.org/abs/2106.10823)
