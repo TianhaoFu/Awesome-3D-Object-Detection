@@ -93,6 +93,7 @@ You are very welcome to pull request to update this list. :smiley:
 - Back To Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement(CVPR2022) [paper](http://arxiv.org/abs/2203.05238), [code](https://github.com/xuxw98/BackToReality)
 - Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds(CVPR2022) [paper](https://www4.comp.polyu.edu.hk/~cslzhang/paper/VoxSeT_cvpr22.pdf), [code](https://github.com/skyhehe123/VoxSeT)
 - BoxeR: Box-Attention for 2D and 3D Transformers [paper](https://arxiv.org/abs/2111.13087), [code](https://github.com/kienduynguyen/boxer), [中文介绍](https://mp.weixin.qq.com/s/UnUJJBwcAsRgz6TnQf_b7w)
+- Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes [paper](https://arxiv.org/abs/2011.12001), [code](https://github.com/qq456cvb/CanonicalVoting)
 
 ## Competition Solution
 ## Engineering
