@@ -92,6 +92,7 @@ You are very welcome to pull request to update this list. :smiley:
 - Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds(CVPR2022) [paper](https://arxiv.org/abs/2203.11139), [code](https://github.com/yifanzhang713/IA-SSD)
 - Back To Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement(CVPR2022) [paper](http://arxiv.org/abs/2203.05238), [code](https://github.com/xuxw98/BackToReality)
 - Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds(CVPR2022) [paper](https://www4.comp.polyu.edu.hk/~cslzhang/paper/VoxSeT_cvpr22.pdf), [code](https://github.com/skyhehe123/VoxSeT)
+- BoxeR: Box-Attention for 2D and 3D Transformers [paper](https://arxiv.org/abs/2111.13087), [code](https://github.com/kienduynguyen/boxer), [中文介绍]（https://mp.weixin.qq.com/s/UnUJJBwcAsRgz6TnQf_b7w）
 
 ## Competition Solution
 ## Engineering
