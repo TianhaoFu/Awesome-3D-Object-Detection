@@ -114,6 +114,8 @@ You are very welcome to pull request to update this list. :smiley:
 - Current Approaches and Future Directions for Point Cloud Object (2021.04) [video](https://www.youtube.com/watch?v=xFFCQVwYeec)
 - Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python (2021.05) [video](https://www.youtube.com/watch?v=f-Ibri14KMY)
 - MIT autonomous driving seminar (2019.11) [video](https://space.bilibili.com/174493426/channel/series)
+- sensetime seminar1 [video](https://www.bilibili.com/video/BV1Bf4y1b7PF?spm_id_from=333.999.0.0)
+- sensetime seminar2 [slides](https://docs.google.com/presentation/d/11CoKCxRFgzbIujMXxTZjHDo_hV0arEQ7sUFWFXWaX8o/edit#slide=id.p1)
 ## Course
 - [University of Toronto, csc2541](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/06_3D_detection.pdf)
 - [University of Tübingen, Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) *(Strong Recommendation)*
@@ -154,6 +156,7 @@ You are very welcome to pull request to update this list. :smiley:
 - [Yuning CHAI(former)@waymo](https://scholar.google.com/citations?hl=en&user=i7U4YogAAAAJ&view_op=list_works&sortby=pubdate)
 - [Yulan Guo@NUDT](http://yulanguo.me/)
 - [Lei Zhang@The Hong Kong Polytechnic University](https://www4.comp.polyu.edu.hk/~cslzhang/)
+- [Hongyang Li@sensetime](https://lihongyang.info/)
 ## Famous CodeBase
 - [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
 - [Spconv](https://github.com/traveller59/spconv)
