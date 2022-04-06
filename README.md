@@ -113,7 +113,7 @@ You are very welcome to pull request to update this list. :smiley:
 - Lecture: Self-Driving Cars (Prof. Andreas Geiger, University of Tübingen) [video](https://www.youtube.com/watch?v=vfL6uJYFrp4)
 - Current Approaches and Future Directions for Point Cloud Object (2021.04) [video](https://www.youtube.com/watch?v=xFFCQVwYeec)
 - Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python (2021.05) [video](https://www.youtube.com/watch?v=f-Ibri14KMY)
-- MIT autonomous driving seminar (2019.11)[video](https://space.bilibili.com/174493426/channel/series)
+- MIT autonomous driving seminar (2019.11) [video](https://space.bilibili.com/174493426/channel/series)
 ## Course
 - [University of Toronto, csc2541](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/06_3D_detection.pdf)
 - [University of Tübingen, Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) *(Strong Recommendation)*
