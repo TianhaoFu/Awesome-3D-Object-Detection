@@ -113,12 +113,18 @@ You are very welcome to pull request to update this list. :smiley:
 - Lecture: Self-Driving Cars (Prof. Andreas Geiger, University of Tübingen) [video](https://www.youtube.com/watch?v=vfL6uJYFrp4)
 - Current Approaches and Future Directions for Point Cloud Object (2021.04) [video](https://www.youtube.com/watch?v=xFFCQVwYeec)
 - Latest 3D OBJECT DETECTION with 30+ FPS on CPU - MediaPipe and OpenCV Python (2021.05) [video](https://www.youtube.com/watch?v=f-Ibri14KMY)
+- MIT autonomous driving seminar (2019.11)[video](https://space.bilibili.com/174493426/channel/series)
 ## Course
 - [University of Toronto, csc2541](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/06_3D_detection.pdf)
 - [University of Tübingen, Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) *(Strong Recommendation)*
+- [baidu](https://apollo.auto/devcenter/devcenter.html)
+- [baidu-apollo](http://bit.baidu.com/Subject/index/id/16.html)
+- [University of Toronto, coursera](https://www.coursera.org/specializations/self-driving-cars?ranMID=40328&ranEAID=9IqCvd3EEQc&ranSiteID=9IqCvd3EEQc-MlZGCwEU2294XsVYWDNwzw&siteID=9IqCvd3EEQc-MlZGCwEU2294XsVYWDNwzw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=9IqCvd3EEQc)
 
 ## Blog
 - [Waymo Blog](https://blog.waymo.com/)
+- [apollo介绍之Perception模块](https://zhuanlan.zhihu.com/p/142401769)
+- [Apollo notes (Apollo学习笔记) - Apollo learning notes for beginners.](https://github.com/daohu527/Dig-into-Apollo#ledger-%E7%9B%AE%E5%BD%95)
 - [PointNet系列论文解读](https://zhuanlan.zhihu.com/p/44809266)
 - [Deep3dBox: 3D Bounding Box Estimation Using Deep Learning and Geometry](https://patrick-llgc.github.io/Learning-Deep-Learning/paper_notes/deep3dbox.html)
 - [SECOND算法解析](https://zhuanlan.zhihu.com/p/356892010)
@@ -155,6 +161,8 @@ You are very welcome to pull request to update this list. :smiley:
 - [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
 - [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 - [Centerpoint](https://github.com/tianweiy/CenterPoint)
+- [Apollo Auto - Baidu open autonomous driving platform](https://github.com/ApolloAuto)
+- [AutoWare - The University of Tokyo autonomous driving platform](https://www.autoware.org/)
 
 ## Famous Toolkit
 - [ZED Box](https://www.stereolabs.com/docs/object-detection/)
