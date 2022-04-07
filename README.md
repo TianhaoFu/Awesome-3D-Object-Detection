@@ -166,7 +166,7 @@ You are very welcome to pull request to update this list. :smiley:
 - [Centerpoint](https://github.com/tianweiy/CenterPoint)
 - [Apollo Auto - Baidu open autonomous driving platform](https://github.com/ApolloAuto)
 - [AutoWare - The University of Tokyo autonomous driving platform](https://www.autoware.org/)
-- [openpilot - A open source software built to improve upon the existing driver assistance in most new cars on the road today](https://comma.ai/)
+- [Openpilot - A open source software built to improve upon the existing driver assistance in most new cars on the road today](https://comma.ai/)
 
 ## Famous Toolkit
 - [ZED Box](https://www.stereolabs.com/docs/object-detection/)
