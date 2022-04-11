@@ -94,7 +94,14 @@ You are very welcome to pull request to update this list. :smiley:
 - Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds(CVPR2022) [paper](https://www4.comp.polyu.edu.hk/~cslzhang/paper/VoxSeT_cvpr22.pdf), [code](https://github.com/skyhehe123/VoxSeT)
 - BoxeR: Box-Attention for 2D and 3D Transformers(CVPR2022) [paper](https://arxiv.org/abs/2111.13087), [code](https://github.com/kienduynguyen/boxer), [中文介绍](https://mp.weixin.qq.com/s/UnUJJBwcAsRgz6TnQf_b7w)
 - Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes(CVPR2022) [paper](https://arxiv.org/abs/2011.12001), [code](https://github.com/qq456cvb/CanonicalVoting)
-
+- DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection(CVPR2022) [paper](https://arxiv.org/abs/2203.08195), [code](https://github.com/tensorflow/lingvo)
+- TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers. (CVPR2022) [paper](https://arxiv.org/abs/2203.11496), [code](https://github.com/xuyangbai/transfusion)
+- Point2Seq: Detecting 3D Objects as Sequences. (CVPR2022) [paper](https://arxiv.org/abs/2203.13394), [code](https://github.com/ocnflag/point2seq)
+- CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection(CVPR2022) [paper](https://arxiv.org/abs/2204.00325)
+- LiDAR Snowfall Simulation for Robust 3D Object Detection(CVPR2022) [paper](https://arxiv.org/abs/2203.15118), [code](https://github.com/syscv/lidar_snow_sim)
+- Unified Transformer Tracker for Object Tracking(CVPR2022) [paper](https://arxiv.org/abs/2203.15175), [code](https://github.com/visionml/pytracking)
+- Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion(CVPR2022) [paper](https://arxiv.org/abs/2203.09780)
+- Unified Transformer Tracker for Object Tracking(CVPR2022) [paper](https://arxiv.org/abs/2203.15175), [code](https://github.com/visionml/pytracking)
 ## Competition Solution
 ## Engineering
 
