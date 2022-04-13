@@ -101,6 +101,7 @@ You are very welcome to pull request to update this list. :smiley:
 - LiDAR Snowfall Simulation for Robust 3D Object Detection(CVPR2022) [paper](https://arxiv.org/abs/2203.15118), [code](https://github.com/syscv/lidar_snow_sim)
 - Unified Transformer Tracker for Object Tracking(CVPR2022) [paper](https://arxiv.org/abs/2203.15175), [code](https://github.com/visionml/pytracking)
 - Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion(CVPR2022) [paper](https://arxiv.org/abs/2203.09780)
+- M^2BEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation(CVPR2022) [paper](https://arxiv.org/abs/2204.05088)
 
 ## Competition Solution
 ## Engineering
