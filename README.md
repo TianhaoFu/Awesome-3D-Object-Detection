@@ -170,6 +170,7 @@ You are very welcome to pull request to update this list. :smiley:
 - [Yulan Guo@NUDT](http://yulanguo.me/)
 - [Lei Zhang@The Hong Kong Polytechnic University](https://www4.comp.polyu.edu.hk/~cslzhang/)
 - [Hongyang Li@sensetime](https://lihongyang.info/)
+- [Luc Van Gool@ETH](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)
 ## Famous CodeBase
 - [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
 - [Spconv](https://github.com/traveller59/spconv)
