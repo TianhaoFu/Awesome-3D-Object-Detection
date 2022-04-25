@@ -174,7 +174,7 @@ You are very welcome to pull request to update this list. :smiley:
 - [Luc Van Gool@ETH](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)
 ## Famous CodeBase
 - [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
-- [Torchsparse]https://github.com/mit-han-lab/torchsparse
+- [Torchsparse](https://github.com/mit-han-lab/torchsparse)
 - [Spconv](https://github.com/traveller59/spconv)
 - [Det3D](https://github.com/poodarchu/Det3D)
 - [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
