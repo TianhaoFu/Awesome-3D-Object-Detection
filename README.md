@@ -174,6 +174,7 @@ You are very welcome to pull request to update this list. :smiley:
 - [Luc Van Gool@ETH](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)
 ## Famous CodeBase
 - [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
+- [Torchsparse]https://github.com/mit-han-lab/torchsparse
 - [Spconv](https://github.com/traveller59/spconv)
 - [Det3D](https://github.com/poodarchu/Det3D)
 - [mmdetection3d](https://github.com/open-mmlab/mmdetection3d)
@@ -182,6 +183,7 @@ You are very welcome to pull request to update this list. :smiley:
 - [Apollo Auto - Baidu open autonomous driving platform](https://github.com/ApolloAuto)
 - [AutoWare - The University of Tokyo autonomous driving platform](https://www.autoware.org/)
 - [Openpilot - A open source software built to improve upon the existing driver assistance in most new cars on the road today](https://comma.ai/)
+
 
 ## Famous Toolkit
 - [ZED Box](https://www.stereolabs.com/docs/object-detection/)
