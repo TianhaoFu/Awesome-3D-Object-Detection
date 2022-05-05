@@ -174,6 +174,8 @@ You are very welcome to pull request to update this list. :smiley:
 - [Lei Zhang@The Hong Kong Polytechnic University](https://www4.comp.polyu.edu.hk/~cslzhang/)
 - [Hongyang Li@sensetime](https://lihongyang.info/)
 - [Luc Van Gool@ETH](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)
+- [Sanja Fidler@NVIDIA](https://scholar.google.com/citations?hl=en&user=CUlqK5EAAAAJ&view_op=list_works&citft=1&email_for_op=tianhaofu1%40gmail.com&sortby=pubdate)
+- [Alan L. Yuille@JHU](https://www.cs.jhu.edu/~ayuille/)
 ## Famous CodeBase
 - [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
 - [Torchsparse](https://github.com/mit-han-lab/torchsparse)
