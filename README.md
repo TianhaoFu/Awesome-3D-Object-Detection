@@ -111,6 +111,7 @@ You are very welcome to pull request to update this list. :smiley:
 - Fast Point Transformer(CVPR2022) [paper](https://arxiv.org/abs/2112.04702)
 - Focal Sparse Convolutional Networks for 3D Object Detection(CVPR2022) [paper](https://jiaya.me/papers/cvpr22_FocalSparseConv.pdf), [code](https://github.com/dvlab-research/FocalsConv)
 - FUTR3D: A Unified Sensor Fusion Framework for 3D Detection(CVPR2022) [paper](https://arxiv.org/abs/2203.10642)
+- VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention(CVPR2022) [paper](https://arxiv.org/abs/2203.09704), [code](https://github.com/Gorilla-Lab-SCUT/VISTA)
 ## Competition Solution
 ## Engineering
 
