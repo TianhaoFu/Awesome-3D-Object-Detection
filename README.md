@@ -188,6 +188,7 @@ You are very welcome to pull request to update this list. :smiley:
 - [Apollo Auto - Baidu open autonomous driving platform](https://github.com/ApolloAuto)
 - [AutoWare - The University of Tokyo autonomous driving platform](https://www.autoware.org/)
 - [Openpilot - A open source software built to improve upon the existing driver assistance in most new cars on the road today](https://comma.ai/)
+- [DeepVision3D](https://github.com/dvlab-research/DeepVision3D)
 
 
 ## Famous Toolkit
