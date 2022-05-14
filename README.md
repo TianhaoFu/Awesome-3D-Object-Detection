@@ -112,6 +112,7 @@ You are very welcome to pull request to update this list. :smiley:
 - Focal Sparse Convolutional Networks for 3D Object Detection(CVPR2022) [paper](https://jiaya.me/papers/cvpr22_FocalSparseConv.pdf), [code](https://github.com/dvlab-research/FocalsConv)
 - FUTR3D: A Unified Sensor Fusion Framework for 3D Detection(CVPR2022) [paper](https://arxiv.org/abs/2203.10642)
 - VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention(CVPR2022) [paper](https://arxiv.org/abs/2203.09704), [code](https://github.com/Gorilla-Lab-SCUT/VISTA)
+- OccAM’s Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data(CVPR2022) [paper](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2204.06577.pdf)
 ## Competition Solution
 ## Engineering
 
