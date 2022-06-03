@@ -113,6 +113,7 @@ You are very welcome to pull request to update this list. :smiley:
 - FUTR3D: A Unified Sensor Fusion Framework for 3D Detection(CVPR2022) [paper](https://arxiv.org/abs/2203.10642)
 - VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention(CVPR2022) [paper](https://arxiv.org/abs/2203.09704), [code](https://github.com/Gorilla-Lab-SCUT/VISTA)
 - OccAM’s Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data(CVPR2022) [paper](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2204.06577.pdf)
+- Voxel Field Fusion for 3D Object Detection [paper](https://arxiv.org/pdf/2205.15938.pdf)), [code](https://github.com/dvlab-research/VFF)
 ## Competition Solution
 ## Engineering
 
