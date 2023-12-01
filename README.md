@@ -113,10 +113,24 @@ You are very welcome to pull request to update this list. :smiley:
 - FUTR3D: A Unified Sensor Fusion Framework for 3D Detection(CVPR2022) [paper](https://arxiv.org/abs/2203.10642)
 - VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention(CVPR2022) [paper](https://arxiv.org/abs/2203.09704), [code](https://github.com/Gorilla-Lab-SCUT/VISTA)
 - OccAM’s Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data(CVPR2022) [paper](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2204.06577.pdf)
-- Voxel Field Fusion for 3D Object Detection [paper](https://arxiv.org/pdf/2205.15938.pdf)), [code](https://github.com/dvlab-research/VFF)
+- Voxel Field Fusion for 3D Object Detection(CVPR2022) [paper](https://arxiv.org/pdf/2205.15938.pdf), [code](https://github.com/dvlab-research/VFF)
+- FSD V2: Improving Fully Sparse 3D Object Detection with Virtual Voxels
+- LinK: Linear Kernel for LiDAR-based 3D Perception(CVPR2023) [paper](https://arxiv.org/abs/2303.16094), [code](https://github.com/MCG-NJU/LinK)
+- DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets(CVPR2023) [paper](https://arxiv.org/abs/2301.06051), [code](https://github.com/Haiyang-W/DSVT)
+- VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking(CVPR2023) [paper](https://arxiv.org/abs/2303.11301), [code](https://github.com/dvlab-research/VoxelNeXt)
+- LargeKernel3D: Scaling up Kernels in 3D Sparse CNNs(CVPR2023) [paper](https://arxiv.org/abs/2206.10555),  [code](https://github.com/dvlab-research/LargeKernel3D)
+- FocalFormer3D : Focusing on Hard Instance for 3D Object Detection(ICCV2023) [paper](https://arxiv.org/abs/2308.04556), [code](https://github.com/NVlabs/FocalFormer3D)
+- CTRL: Once Detected, Never Lost: Surpassing Human Performance in Offline LiDAR based 3D Object Detection(ICCV2023)  [paper](https://arxiv.org/abs/2304.12315), [code](https://github.com/tusen-ai/SST)
+- Real-Aug: Realistic Scene Synthesis for LiDAR Augmentation in 3D Object Detection(arxiv2023) [paper](https://arxiv.org/abs/2305.12853), [code](https://github.com/JinglinZhan/Real-Aug)
 ## Competition Solution
+- [6th AI Driving Olympics, ICRA 2021](https://driving-olympics.ai/)
+- [5th AI Driving Olympics, NeurIPS 2020](https://driving-olympics.ai/)
+- [Workshop on Benchmarking Progress in Autonomous Driving, ICRA 2020](http://montrealrobotics.ca/driving-benchmarks/)
+- [Workshop on Autonomous Driving, CVPR 2019](https://sites.google.com/view/wad2019)
 ## Engineering
-
+- Pointpillars-ONNX [code](https://github.com/SmallMunich/nutonomy_pointpillars)
+- Centerpoint-ONNX [code](https://github.com/CarkusL/CenterPoint)
+- BEVFormer-TensorRT [code](https://github.com/DerryHub/BEVFormer_tensorrt)
 ## Survey
 - 2021.04 Point-cloud based 3D object detection and classification methods for self-driving applications: A survey and taxonomy [paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253520304097)
 - 2021.07 3D Object Detection for Autonomous Driving: A Survey [paper](https://arxiv.org/abs/2106.10823)
@@ -179,6 +193,7 @@ You are very welcome to pull request to update this list. :smiley:
 - [Luc Van Gool@ETH](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)
 - [Sanja Fidler@NVIDIA](https://scholar.google.com/citations?hl=en&user=CUlqK5EAAAAJ&view_op=list_works&citft=1&email_for_op=tianhaofu1%40gmail.com&sortby=pubdate)
 - [Alan L. Yuille@JHU](https://www.cs.jhu.edu/~ayuille/)
+- [OpenDriveLab](https://github.com/OpenDriveLab)
 ## Famous CodeBase
 - [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)
 - [Torchsparse](https://github.com/mit-han-lab/torchsparse)
@@ -191,6 +206,7 @@ You are very welcome to pull request to update this list. :smiley:
 - [AutoWare - The University of Tokyo autonomous driving platform](https://www.autoware.org/)
 - [Openpilot - A open source software built to improve upon the existing driver assistance in most new cars on the road today](https://comma.ai/)
 - [DeepVision3D](https://github.com/dvlab-research/DeepVision3D)
+- [MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine)
 
 
 ## Famous Toolkit
